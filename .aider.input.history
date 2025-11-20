@@ -1,0 +1,46 @@
+
+# 2025-11-20 19:05:27.862992
++Code the following app
++```
++Idea: A dashboard to track realized volatility and simple implied volatility proxies.
++User goal: Decide when the market is “calm” vs. “on fire” and adjust strategies.
++Core features (MVP):
++
++* Realized volatility over different windows (1d, 7d, 30d).
++* Basic “volatility regimes” (low / normal / high) by thresholds.
++* ATR (Average True Range) per coin.
++* Simple notification when volatility jumps above a set level.
++
++Development plan:
++
++1. Fetch OHLCV data via exchange API for selected pairs.
++2. Implement calculations for realized volatility and ATR.
++3. Build UI cards per coin with color-coded vol regime.
++4. Add simple alert system (e.g., email/Telegram or in-app banner).
++5. Add sorting/filtering by volatility and ATR.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:05:27.863963
++Code the following app
++```
++Idea: A dashboard to track realized volatility and simple implied volatility proxies.
++User goal: Decide when the market is “calm” vs. “on fire” and adjust strategies.
++Core features (MVP):
++
++* Realized volatility over different windows (1d, 7d, 30d).
++* Basic “volatility regimes” (low / normal / high) by thresholds.
++* ATR (Average True Range) per coin.
++* Simple notification when volatility jumps above a set level.
++
++Development plan:
++
++1. Fetch OHLCV data via exchange API for selected pairs.
++2. Implement calculations for realized volatility and ATR.
++3. Build UI cards per coin with color-coded vol regime.
++4. Add simple alert system (e.g., email/Telegram or in-app banner).
++5. Add sorting/filtering by volatility and ATR.
++```
++
++Generate an app logo and update the app metadata title and description.
